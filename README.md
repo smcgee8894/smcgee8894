@@ -11,8 +11,9 @@ My name is Sean McGee, and I expect to graduate from Northern Arizona University
   - Python
 - Simulation and analysis
   - SOLIDWORKS
+  - ANSYS
   - MATLAB
     - PDE Toolbox (thermal, structural mechanics)
     - Simulink
     - Simscape
-  - ANSYS
+
