@@ -4,6 +4,10 @@ These repositories contain samples of work from some of the projects I've worked
 ## About Me
 My name is Sean McGee, and I expect to graduate from Northern Arizona University in December, 2021 with my Bachelor of Science in mechanical mngineering and minor in electrical engineering. I am particularly interested in mechatronics and control engineering.
 
+[Portfolio](smcgee8894.github.io/)
+
+[LinkedIn Profile](https://www.linkedin.com/in/sean-mcgee-55b00026/)
+
 ### Skills:
 - Programming
   - C/C++
